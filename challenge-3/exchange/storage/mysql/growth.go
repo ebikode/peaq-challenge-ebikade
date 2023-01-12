@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/ebikode/peaq-challenge/challenge-3/exchange/models"
+	"github.com/irediaes/peaq-challenge/challenge-3/exchange/models"
 )
 
 // GrowthRecordStorage ...

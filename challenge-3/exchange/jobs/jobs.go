@@ -1,10 +1,10 @@
 package jobs
 
 import (
-	"github.com/ebikode/peaq-challenge/challenge-3/exchange/pkg/growth"
-	"github.com/ebikode/peaq-challenge/challenge-3/exchange/pkg/rate"
-	"github.com/ebikode/peaq-challenge/challenge-3/exchange/pkg/schedule"
-	storage "github.com/ebikode/peaq-challenge/challenge-3/exchange/storage/mysql"
+	"github.com/irediaes/peaq-challenge/challenge-3/exchange/pkg/growth"
+	"github.com/irediaes/peaq-challenge/challenge-3/exchange/pkg/rate"
+	"github.com/irediaes/peaq-challenge/challenge-3/exchange/pkg/schedule"
+	storage "github.com/irediaes/peaq-challenge/challenge-3/exchange/storage/mysql"
 )
 
 const (

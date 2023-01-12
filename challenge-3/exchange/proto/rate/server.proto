@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package="github.com/ebikode/peaq-challenge/challenge-3/exchange/proto/rate;rate";
+option go_package="github.com/irediaes/peaq-challenge/challenge-3/exchange/proto/rate;rate";
 package rate;
 
 import "google/api/annotations.proto";
@@ -13,7 +13,7 @@ option (grpc.gateway.protoc_gen_swagger.options.openapiv2_swagger) = {
     version: "1.0"
     contact: {
       name: "Iredia"
-      url: "https://github.com/ebikode/peaq-challenge"
+      url: "https://github.com/irediaes/peaq-challenge"
       email: "sammyrogers2010@gmail.com"
     }
   }

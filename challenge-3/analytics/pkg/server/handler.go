@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	pb "github.com/ebikode/peaq-challenge/challenge-3/exchange/proto/rate"
+	pb "github.com/irediaes/peaq-challenge/challenge-3/exchange/proto/rate"
 )
 
 type analyticsServer struct {

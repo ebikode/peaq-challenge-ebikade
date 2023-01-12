@@ -4,9 +4,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ebikode/peaq-challenge/challenge-3/exchange/models"
-	pb "github.com/ebikode/peaq-challenge/challenge-3/exchange/proto/rate"
-	"github.com/ebikode/peaq-challenge/challenge-3/exchange/utils"
+	"github.com/irediaes/peaq-challenge/challenge-3/exchange/models"
+	pb "github.com/irediaes/peaq-challenge/challenge-3/exchange/proto/rate"
+	"github.com/irediaes/peaq-challenge/challenge-3/exchange/utils"
 )
 
 const (
